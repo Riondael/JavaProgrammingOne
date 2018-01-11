@@ -1,12 +1,12 @@
 package Chapter3;
 
+import java.util.Scanner;
+
 /**
  * Program is a simple coin flip game
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C3_14 {
 
     /**

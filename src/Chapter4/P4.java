@@ -1,5 +1,7 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program takes two bidders and sees who is a better and cheaper option to
  * choose from

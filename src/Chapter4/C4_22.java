@@ -1,12 +1,12 @@
 package Chapter4;
 
+import java.util.Scanner;
+
 /**
  * Program calculates Net Pay
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C4_22 {
 
     /**

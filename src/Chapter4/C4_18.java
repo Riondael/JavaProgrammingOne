@@ -1,12 +1,12 @@
 package Chapter4;
 
+import java.util.Scanner;
+
 /**
  * Program will take a substring and see if it is inside another string
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C4_18 {
 
     /**
