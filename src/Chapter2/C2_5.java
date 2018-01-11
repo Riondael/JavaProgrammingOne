@@ -1,12 +1,12 @@
 package Chapter2;
 
+import java.util.Scanner;
+
 /**
  * Program that will get the total and display it
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C2_5 {
 
     /**

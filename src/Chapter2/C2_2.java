@@ -1,12 +1,12 @@
 package Chapter2;
 
+import java.util.Scanner;
+
 /**
  * Program that will find the area and volume using the variables it is given
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C2_2 {
 
     /**

@@ -1,12 +1,12 @@
 package Chapter2;
 
+import java.util.Scanner;
+
 /**
  * Program will add up the prices of food and display total price
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class P2 {
 
     /**

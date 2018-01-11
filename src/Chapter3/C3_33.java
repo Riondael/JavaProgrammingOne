@@ -1,13 +1,13 @@
 package Chapter3;
 
+import java.util.Scanner;
+
 /**
  * Program finds out which shipping company is better for a user or if they are
  * equal
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C3_33 {
 
     /**

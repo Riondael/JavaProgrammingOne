@@ -1,12 +1,12 @@
 package Chapter3;
 
+import java.util.Scanner;
+
 /**
  * Program will take user input of numbers and compare them
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class P3 {
 
     /**

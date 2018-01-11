@@ -1,12 +1,12 @@
 package Chapter2;
 
+import java.util.Scanner;
+
 /**
  * Program that converts Celcius to Fahrenheit
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C2_1 {
 
     /**

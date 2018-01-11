@@ -1,12 +1,12 @@
 package Chapter3;
 
+import java.util.Scanner;
+
 /**
  * Program takes a number and finds out if it's divisible by 5 or 6
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C3_26 {
 
     /**

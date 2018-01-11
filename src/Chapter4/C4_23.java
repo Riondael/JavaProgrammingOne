@@ -1,12 +1,12 @@
 package Chapter4;
 
+import java.util.Scanner;
+
 /**
  * Program will check if user input is valid
  *
  * @author Isaac Dabney
  */
-import java.util.Scanner;
-
 public class C4_23 {
 
     public static String Major;

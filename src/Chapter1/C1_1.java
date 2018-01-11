@@ -8,7 +8,7 @@ package Chapter1;
 public class C1_1 {
 
     /**
-     *Main Method
+     * Main Method
      *
      * @param args arguments from command line prompt
      */
